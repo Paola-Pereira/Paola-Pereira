@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Paola-Pereira
-- 👀 I'm interested in programming
-- 🌱 I’m currently learning Computer Science
+
 
 
 <!---
